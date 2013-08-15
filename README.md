@@ -2,6 +2,8 @@
 
 Coq'Art読書会まとめWikiようこそ。
 
+![general tan](https://raw.github.com/readcoqart/wiki/master/img/general_tan.png)
+
 ## 勉強会概要
 
 証明器Coqの解説書
